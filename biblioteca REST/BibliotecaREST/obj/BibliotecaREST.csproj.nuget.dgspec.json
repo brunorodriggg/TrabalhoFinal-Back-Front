@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/brunorodrigo/Documents/biblioteca REST/BibliotecaREST/BibliotecaREST.csproj": {}
+    "/Users/brunorodrigo/Documents/TrabalhoFinal-Back-Front/biblioteca REST/BibliotecaREST/BibliotecaREST.csproj": {}
   },
   "projects": {
-    "/Users/brunorodrigo/Documents/biblioteca REST/BibliotecaREST/BibliotecaREST.csproj": {
+    "/Users/brunorodrigo/Documents/TrabalhoFinal-Back-Front/biblioteca REST/BibliotecaREST/BibliotecaREST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brunorodrigo/Documents/biblioteca REST/BibliotecaREST/BibliotecaREST.csproj",
+        "projectUniqueName": "/Users/brunorodrigo/Documents/TrabalhoFinal-Back-Front/biblioteca REST/BibliotecaREST/BibliotecaREST.csproj",
         "projectName": "BibliotecaREST",
-        "projectPath": "/Users/brunorodrigo/Documents/biblioteca REST/BibliotecaREST/BibliotecaREST.csproj",
+        "projectPath": "/Users/brunorodrigo/Documents/TrabalhoFinal-Back-Front/biblioteca REST/BibliotecaREST/BibliotecaREST.csproj",
         "packagesPath": "/Users/brunorodrigo/.nuget/packages/",
-        "outputPath": "/Users/brunorodrigo/Documents/biblioteca REST/BibliotecaREST/obj/",
+        "outputPath": "/Users/brunorodrigo/Documents/TrabalhoFinal-Back-Front/biblioteca REST/BibliotecaREST/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/brunorodrigo/.nuget/NuGet/NuGet.Config"
