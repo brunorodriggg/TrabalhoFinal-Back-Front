@@ -23,21 +23,22 @@ Para executar o projeto corretamente, você precisa ter instalado:
 1. Rodar o back-end (ASP.NET Core)
 
 - Abra o Visual Studio.
-- Vá até a pasta backend.
+- Vá até a pasta backend (biblioteca REST).
 - Dentro dela, abra o projeto que está na subpasta BibliotecaRest.
 - Localize e abra o arquivo Program.cs para revisar a configuração se necessário.
 - Execute o aplicativo (Ctrl + F5 ou botão de play).
 - O back-end será iniciado, normalmente acessível via https://localhost:xxxx (a porta depende da configuração do projeto).
 
 2. Rodar o front-end (React)
-Abra um terminal e navegue até a pasta frontend:
-- cd frontend
-Instale as dependências:
-- npm install
-Instale o React Router:
-- npm install react-router-dom
-Execute a aplicação:
-- npm start
+- Abra um terminal e navegue até a pasta frontend:
+cd frontend
+- Instale as dependências:
+npm install
+- Instale o React Router:
+npm install react-router-dom
+- Execute a aplicação:
+npm start
+
 A aplicação será iniciada normalmente em http://localhost:3000.
 
 
